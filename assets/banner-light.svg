@@ -3,7 +3,7 @@
   <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="none" stroke="#d0d7de"/>
   <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
     <text x="60" y="110" font-size="46" font-weight="700" fill="#1f2328">Mirkazım Kazımov</text>
-    <text x="60" y="155" font-size="24" fill="#57606a">Data Analyst · Marketing &amp; Sales Analytics · Automotive</text>
+    <text x="60" y="155" font-size="24" fill="#57606a">Data Analyst · Marketing &amp; Sales Analytics · BI · Machine Learning</text>
     <g font-size="20" font-weight="600">
       <text x="60" y="222" fill="#1f2328">data</text>
       <text x="113" y="222" fill="#8c959f">→</text>
@@ -14,16 +14,4 @@
     </g>
     <text x="60" y="262" font-size="15" fill="#8c959f">SQL · Python · Power BI · Google Apps Script · Baku, Azerbaijan</text>
   </g>
-  <!-- funnel -->
-  <g transform="translate(800,60)" stroke-linejoin="round">
-    <path d="M0 0 H180 L160 40 H20 Z" fill="#0969da" opacity="0.95"/>
-    <path d="M24 50 H156 L138 90 H42 Z" fill="#0969da" opacity="0.7"/>
-    <path d="M46 100 H134 L118 140 H62 Z" fill="#0969da" opacity="0.45"/>
-    <path d="M66 150 H114 L104 180 H76 Z" fill="#1a7f37"/>
-  </g>
-  <!-- trend line -->
-  <polyline points="1010,230 1040,205 1065,215 1095,170 1120,180 1150,120" fill="none" stroke="#bf8700"
-            stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="1150" cy="120" r="6" fill="#bf8700"/>
-  <line x1="1000" y1="245" x2="1160" y2="245" stroke="#d0d7de" stroke-width="2"/>
 </svg>
