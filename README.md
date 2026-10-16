@@ -28,7 +28,7 @@ I'm a data analyst in Baku. At work I analyse marketing and sales data for 7 aut
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/kazimovmirkazim/socar-hackathon-seismic-data-platform"><img src="assets/projects/socar-hackathon.png" alt="SOCAR Hackathon 2025 dashboard"></a>
-      <b><a href="https://github.com/kazimovmirkazim/socar-hackathon-seismic-data-platform">SOCAR Hackathon 2025 · Seismic Data Platform</a></b> <sub>team project</sub><br>
+      <b><a href="https://github.com/kazimovmirkazim/socar-hackathon-seismic-data-platform">SOCAR Hackathon 2025 · Seismic Data Platform</a></b> <sub>team project · data engineer &amp; data analyst</sub><br>
       Corrupted legacy seismic files recovered and decoded (3,660 rows from a proprietary format), modelled in Data Vault 2.0 and a star schema, then analysed: 4,570 readings, 95.4% passing quality checks.
     </td>
     <td width="50%" valign="top">
